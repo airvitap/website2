@@ -1,1 +1,1 @@
-Sitemap: https://deepbinder-main.github.io/lab-portfolio/sitemap.xml
+Sitemap: http://deepbinder-main.github.io/lab-portfolio/sitemap.xml
