@@ -1,1 +1,1 @@
-Sitemap: http://air.vitap.ac.in/sitemap.xml
+Sitemap: http://deepbinder-main.github.io/sitemap.xml
