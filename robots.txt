@@ -1,1 +1,1 @@
-Sitemap: https://airvitap.github.io/sitemap.xml
+Sitemap: https://air.vitap.ac.in/sitemap.xml
