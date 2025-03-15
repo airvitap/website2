@@ -54,16 +54,17 @@ jobs:
 
       - name: Check if readme changed
         id: changed
-        uses: tj-actions/verify-changed-files@v18
+        uses: dorny/paths-filter@v2
         with:
-          files: |
-            README.md
+          filters: |
+            readme:
+              - 'README.md'
 
       - name: Commit changed files
-        if: steps.changed.outputs.files_changed == 'true'
+        if: steps.changed.outputs.readme == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update url"
 
     outputs:
-      changed: ${{ steps.changed.outputs.files_changed }}
+      changed: ${{ steps.changed.outputs.readme }}
