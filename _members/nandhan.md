@@ -6,7 +6,7 @@ affliation : VIT AP University
 description: 
 links:
   email: nandhan.golla.work@gmail.com
-Twitter:  nandhan_golla 
+  Twitter:  nandhan_golla 
   github : github.com/Nandhan-Golla
 ---
 
