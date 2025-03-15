@@ -6,7 +6,7 @@ affliation : VIT AP University
 description: 
 links:
   email: Mitumithilesh1@gmail.com
-  twitter: 
+  twitter: Its_mrleo732
   github : github.com/kingsmen732
 ---
 
