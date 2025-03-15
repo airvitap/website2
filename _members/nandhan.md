@@ -7,7 +7,7 @@ description:
 links:
   email: nandhan.golla.work@gmail.com
   Twitter:  nandhan_golla 
-  github : github.com/Nandhan-Golla
+  github : Nandhan-Golla
 ---
 
 With expertise spanning Reinforcement learning, robotics Inverse Kinematics , Deep learning, IoT, and quantum mechanics, I deliver sophisticated tech solutions.
